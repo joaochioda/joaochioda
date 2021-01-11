@@ -11,3 +11,4 @@
 * https://github.com/joaochioda/30days-effects-css - desafio de fazer 30 estilos de css usando html e css
 * https://github.com/joaochioda/portfolio - aplicação em react para abrigar meu portfolio
 * https://github.com/joaochioda/see-mails-mobile - aplicação react-native para ler as mensagem do portfolio usando realtime database do firebase
+* https://github.com/joaochioda/discord-bot-lol - bot discord que mostra o elo das pessoas da sua partida (league of legends)
