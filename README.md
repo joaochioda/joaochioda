@@ -13,3 +13,5 @@
 * https://github.com/joaochioda/see-mails-mobile - aplicação react-native para ler as mensagem do portfolio usando realtime database do firebase
 * https://github.com/joaochioda/discord-bot-lol - bot discord que mostra o elo das pessoas da sua partida (league of legends)
 * https://github.com/joaochioda/nlw4 - aplicação desenvolvida no NLW4 para ajudar programadores evitar fadiga
+* https://github.com/joaochioda/nlw5 - aplicação react player podcast deseenvolvida no NLW5
+* https://github.com/joaochioda/nlw5-flutter - aplicação flutter quizz desenvolvida no NLW5
