@@ -12,8 +12,8 @@
 * https://github.com/joaochioda/portfolio - aplicação em react para abrigar meu portfolio
 * https://github.com/joaochioda/see-mails-mobile - aplicação react-native para ler as mensagem do portfolio usando realtime database do firebase
 * https://github.com/joaochioda/discord-bot-lol - bot discord que mostra o elo das pessoas da sua partida (league of legends)
-* https://github.com/joaochioda/NLW3 - aplicação react/node desenvolvida no NLW3 para marcar casa dos velinhos
-* https://github.com/joaochioda/nlw4 - aplicação desenvolvida no NLW4 para ajudar programadores evitar fadiga
-* https://github.com/joaochioda/nlw5 - aplicação react player podcast deseenvolvida no NLW5
+* https://github.com/joaochioda/NLW3 - aplicação react/node/react-native desenvolvida no NLW3 para marcar casa dos velinhos
+* https://github.com/joaochioda/nlw4 - aplicação next desenvolvida no NLW4 para ajudar programadores evitar fadiga
+* https://github.com/joaochioda/nlw5 - aplicação next player podcast deseenvolvida no NLW5
 * https://github.com/joaochioda/nlw5-flutter - aplicação flutter quizz desenvolvida no NLW5
 * https://github.com/joaochioda/nlw6-react - aplicação react desenvolvida no NLW6 com integração firebase
