@@ -15,4 +15,4 @@
 * https://github.com/joaochioda/nlw4 - aplicação desenvolvida no NLW4 para ajudar programadores evitar fadiga
 * https://github.com/joaochioda/nlw5 - aplicação react player podcast deseenvolvida no NLW5
 * https://github.com/joaochioda/nlw5-flutter - aplicação flutter quizz desenvolvida no NLW5
-*https://github.com/joaochioda/nlw6-react - aplicação react desenvolvida no NLW6 com integração firebase
+* https://github.com/joaochioda/nlw6-react - aplicação react desenvolvida no NLW6 com integração firebase
