@@ -6,12 +6,12 @@
 
 <h3>🚀 NLW - <a href="https://rocketseat.com.br/ " target="_blank">Rocketseat</a> event where an entire application is built in one week</h3>
 
-* https://github.com/joaochioda/rockttutorial - bootcamp react e reactnative
-* https://github.com/joaochioda/NLW3 - aplicação react/node/react-native desenvolvida no NLW3 para marcar casa dos velinhos
-* https://github.com/joaochioda/nlw4 - aplicação next desenvolvida no NLW4 para ajudar programadores evitar fadiga
-* https://github.com/joaochioda/nlw5 - aplicação next player podcast deseenvolvida no NLW5
-* https://github.com/joaochioda/nlw5-flutter - aplicação flutter quizz desenvolvida no NLW5
-* https://github.com/joaochioda/nlw6-react - aplicação react desenvolvida no NLW6 com integração firebase
+* https://github.com/joaochioda/rockttutorial - register classes - (react && reactNative && node)
+* https://github.com/joaochioda/NLW3 - register rest home - (react && reactNative && node + googlemaps)
+* https://github.com/joaochioda/nlw4 - web application to help devlopers avoid fatigue (nextjs)
+* https://github.com/joaochioda/nlw5 - web application to play podcasts (nextjs)
+* https://github.com/joaochioda/nlw5-flutter - quizz (flutter)
+* https://github.com/joaochioda/nlw6-react - chat room (react + firebase)
 
 <h3>✨ Bootcamp - <a href="https://www.igti.com.br/ " target="_blank">IGTI</a> bootocamp where html,css,angular,vue and react were studied</h3>
 
@@ -19,16 +19,16 @@
 
 <h3>🤩 Personal projects - completed applications to study framework and libs</h3>
 
-* https://github.com/joaochioda/herokuSpring - backend feito em spring
-* https://github.com/joaochioda/tccZone - aplicação flutter para cadastro de essencias de narguile
-* https://github.com/joaochioda/portfolio - aplicação em react para abrigar meu portfolio
-* https://github.com/joaochioda/see-mails-mobile - aplicação react-native para ler as mensagem do portfolio usando realtime database do firebase
-* https://github.com/joaochioda/discord-bot-lol - bot discord que mostra o elo das pessoas da sua partida (league of legends)
-* https://github.com/joaochioda/conversor-moeda-flutter - study flutter
+* https://github.com/joaochioda/herokuSpring - backend tcczone (springboot)
+* https://github.com/joaochioda/tccZone - register hookah essence, like, comment (flutter)
+* https://github.com/joaochioda/portfolio - portfolio (react)
+* https://github.com/joaochioda/see-mails-mobile - application to see the messages sent in the portfolio (reactnative)
+* https://github.com/joaochioda/discord-bot-lol - bot discord to see players'elo (discord + league of legends)
+* https://github.com/joaochioda/conversor-moeda-flutter - study flutter (flutter)
 
 <h3>🎃 Html & Css - personal projects to study html and css</h3>
 
-* https://github.com/joaochioda/30days-effects-css - desafio de fazer 30 estilos de css usando html e css (html & css)
+* https://github.com/joaochioda/30days-effects-css - every day make one challenge (html & css)
 * https://github.com/joaochioda/position - study position fixed and absolute (html & css)
 * https://github.com/joaochioda/corebiz-challenge - challenge to make frontpage (react)
 * https://github.com/joaochioda/comparison-slider - comparison slider (html & css)
