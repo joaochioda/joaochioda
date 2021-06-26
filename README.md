@@ -2,23 +2,32 @@
 <h3 align="center">Graduated in computer engineering at <a href="https://www.facamp.com.br/" target="_blank">FACAMP</a>,</h3>
 <h3 align="center">Passionate frontend developer from Brazil,</h3>
 
-### See my projects below
+<h2>See my projects below</h2>
 
+<h3>🚀 NLW - <a href="https://rocketseat.com.br/ " target="_blank">Rocketseat</a> event where an entire application is built in one week</h3>
 
-* https://github.com/joaochioda/igti-bootcamp-front - bootcamp js,react,vue e angular
-* https://github.com/joaochioda/herokuSpring - backend feito em spring
-* https://github.com/joaochioda/tccZone - aplicação flutter para cadastro de essencias de narguile
 * https://github.com/joaochioda/rockttutorial - bootcamp react e reactnative
-* https://github.com/joaochioda/30days-effects-css - desafio de fazer 30 estilos de css usando html e css
-* https://github.com/joaochioda/portfolio - aplicação em react para abrigar meu portfolio
-* https://github.com/joaochioda/see-mails-mobile - aplicação react-native para ler as mensagem do portfolio usando realtime database do firebase
-* https://github.com/joaochioda/discord-bot-lol - bot discord que mostra o elo das pessoas da sua partida (league of legends)
 * https://github.com/joaochioda/NLW3 - aplicação react/node/react-native desenvolvida no NLW3 para marcar casa dos velinhos
 * https://github.com/joaochioda/nlw4 - aplicação next desenvolvida no NLW4 para ajudar programadores evitar fadiga
 * https://github.com/joaochioda/nlw5 - aplicação next player podcast deseenvolvida no NLW5
 * https://github.com/joaochioda/nlw5-flutter - aplicação flutter quizz desenvolvida no NLW5
 * https://github.com/joaochioda/nlw6-react - aplicação react desenvolvida no NLW6 com integração firebase
 
+<h3>✨ Bootcamp - <a href="https://www.igti.com.br/ " target="_blank">IGTI</a> bootocamp where html,css,angular,vue and react were studied</h3>
+
+* https://github.com/joaochioda/igti-bootcamp-front - bootcamp js,react,vue e angular
+
+<h3>🤩Personal projects - completed applications to study framework and libs</h3>
+
+* https://github.com/joaochioda/herokuSpring - backend feito em spring
+* https://github.com/joaochioda/tccZone - aplicação flutter para cadastro de essencias de narguile
+* https://github.com/joaochioda/portfolio - aplicação em react para abrigar meu portfolio
+* https://github.com/joaochioda/see-mails-mobile - aplicação react-native para ler as mensagem do portfolio usando realtime database do firebase
+* https://github.com/joaochioda/discord-bot-lol - bot discord que mostra o elo das pessoas da sua partida (league of legends)
+
+<h3>🎃Html & Css - personal projects to study html and css</h3>
+
+* https://github.com/joaochioda/30days-effects-css - desafio de fazer 30 estilos de css usando html e css
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
