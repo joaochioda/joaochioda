@@ -17,7 +17,7 @@
 
 * https://github.com/joaochioda/igti-bootcamp-front - bootcamp js,react,vue e angular
 
-<h3>🤩Personal projects - completed applications to study framework and libs</h3>
+<h3>🤩 Personal projects - completed applications to study framework and libs</h3>
 
 * https://github.com/joaochioda/herokuSpring - backend feito em spring
 * https://github.com/joaochioda/tccZone - aplicação flutter para cadastro de essencias de narguile
@@ -25,7 +25,7 @@
 * https://github.com/joaochioda/see-mails-mobile - aplicação react-native para ler as mensagem do portfolio usando realtime database do firebase
 * https://github.com/joaochioda/discord-bot-lol - bot discord que mostra o elo das pessoas da sua partida (league of legends)
 
-<h3>🎃Html & Css - personal projects to study html and css</h3>
+<h3>🎃 Html & Css - personal projects to study html and css</h3>
 
 * https://github.com/joaochioda/30days-effects-css - desafio de fazer 30 estilos de css usando html e css
 
