@@ -24,10 +24,16 @@
 * https://github.com/joaochioda/portfolio - aplicação em react para abrigar meu portfolio
 * https://github.com/joaochioda/see-mails-mobile - aplicação react-native para ler as mensagem do portfolio usando realtime database do firebase
 * https://github.com/joaochioda/discord-bot-lol - bot discord que mostra o elo das pessoas da sua partida (league of legends)
+* https://github.com/joaochioda/conversor-moeda-flutter - study flutter
 
 <h3>🎃 Html & Css - personal projects to study html and css</h3>
 
-* https://github.com/joaochioda/30days-effects-css - desafio de fazer 30 estilos de css usando html e css
+* https://github.com/joaochioda/30days-effects-css - desafio de fazer 30 estilos de css usando html e css (html & css)
+* https://github.com/joaochioda/position - study position fixed and absolute (html & css)
+* https://github.com/joaochioda/corebiz-challenge - challenge to make frontpage (react)
+* https://github.com/joaochioda/comparison-slider - comparison slider (html & css)
+* https://github.com/joaochioda/form-label-effect - label with effets (html & css)
+* https://github.com/joaochioda/glass-effect - glass effect (html & css)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
