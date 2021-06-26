@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Guilherme</h1>
-<h3 align="center">Graduated in computer engineering at <a href="https://www.https://www.facamp.com.br/" target="_blank">FACAMP</a>,</h3>
+<h3 align="center">Graduated in computer engineering at <a href="https://www.facamp.com.br/" target="_blank">FACAMP</a>,</h3>
 <h3 align="center">Passionate frontend developer from Brazil,</h3>
 
 ### See my projects below
