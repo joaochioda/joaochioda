@@ -4,7 +4,7 @@
 
 <h2>See my projects below</h2>
 
-<h3>🚀 NLW - <a href="https://rocketseat.com.br/ " target="_blank">Rocketseat</a> event where an entire application is built in one week</h3>
+<h3>🚀 NLW - <a href="https://rocketseat.com.br/ " target="_blank">Rocketseat</a> event where which application is built in one week</h3>
 
 * https://github.com/joaochioda/rockttutorial - register classes - (react && reactNative && node)
 * https://github.com/joaochioda/NLW3 - register rest home - (react && reactNative && node + googlemaps)
@@ -13,7 +13,7 @@
 * https://github.com/joaochioda/nlw5-flutter - quizz (flutter)
 * https://github.com/joaochioda/nlw6-react - chat room (react + firebase)
 
-<h3>✨ Bootcamp - <a href="https://www.igti.com.br/ " target="_blank">IGTI</a> bootocamp where html,css,angular,vue and react were studied</h3>
+<h3>✨ Bootcamp - <a href="https://www.igti.com.br/ " target="_blank">IGTI</a> bootcamp where html,css,angular,vue and react were studied</h3>
 
 * https://github.com/joaochioda/igti-bootcamp-front - bootcamp js,react,vue e angular
 
