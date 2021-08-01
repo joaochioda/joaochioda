@@ -12,6 +12,7 @@
 * https://github.com/joaochioda/nlw5 - web application to play podcasts (nextjs)
 * https://github.com/joaochioda/nlw5-flutter - quizz (flutter)
 * https://github.com/joaochioda/nlw6-react - chat room (react + firebase)
+* https://github.com/joaochioda/nlw6-react-native - app create games room with discord (react-native + discord)
 
 <h3>✨ Bootcamp - <a href="https://www.igti.com.br/ " target="_blank">IGTI</a> bootcamp where html,css,angular,vue and react were studied</h3>
 
