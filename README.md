@@ -26,12 +26,13 @@
 * https://github.com/joaochioda/see-mails-mobile - application to see the messages sent in the portfolio (reactnative)
 * https://github.com/joaochioda/discord-bot-lol - bot discord to see players'elo (discord + league of legends)
 * https://github.com/joaochioda/conversor-moeda-flutter - study flutter (flutter)
+* https://github.com/joaochioda/tag-challenge -Web App to see books rating (react + node)
+* https://github.com/joaochioda/corebiz-challenge - challenge to make frontpage (react)
 
 <h3>🎃 Html & Css - personal projects to study html and css</h3>
 
 * https://github.com/joaochioda/30days-effects-css - every day make one challenge (html & css)
 * https://github.com/joaochioda/position - study position fixed and absolute (html & css)
-* https://github.com/joaochioda/corebiz-challenge - challenge to make frontpage (react)
 * https://github.com/joaochioda/comparison-slider - comparison slider (html & css)
 * https://github.com/joaochioda/form-label-effect - label with effets (html & css)
 * https://github.com/joaochioda/glass-effect - glass effect (html & css)
