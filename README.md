@@ -38,6 +38,7 @@
 * https://github.com/joaochioda/form-label-effect - label with effets (html & css)
 * https://github.com/joaochioda/glass-effect - glass effect (html & css)
 * https://github.com/joaochioda/snake - snake game (html + canvas)
+* https://github.com/joaochioda/snake-websocket - snake game websocket (html + canvas + websocket)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
