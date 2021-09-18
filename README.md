@@ -29,6 +29,7 @@
 * https://github.com/joaochioda/tag-challenge -Web App to see books rating (react + node)
 * https://github.com/joaochioda/corebiz-challenge - challenge to make frontpage (react)
 * https://github.com/joaochioda/pvu-display - help to play plant vs undead (js)
+* https://github.com/joaochioda/pvu-marketplace-calculator - calculates the best plants on market (js)
 * https://github.com/joaochioda/crudNest - study nest (nestjs + mongo)
 
 <h3>🎃 Html & Css - personal projects to study html and css</h3>
