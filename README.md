@@ -31,6 +31,7 @@
 * https://github.com/joaochioda/pvu-display - help to play plant vs undead (js)
 * https://github.com/joaochioda/pvu-marketplace-calculator - calculates the best plants on market (js)
 * https://github.com/joaochioda/crudNest - study nest (nestjs + mongo)
+* https://github.com/joaochioda/study-test - study testing library (react)
 
 <h3>🎃 Html & Css - personal projects to study html and css</h3>
 
