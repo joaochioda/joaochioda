@@ -4,6 +4,11 @@
 
 <h2>See my projects below</h2>
 
+<h3>🚄 Learning websocket</h3>
+
+* https://github.com/joaochioda/learning-unity-odd-or-even - Multiplayer odd or even (unity & node)
+* https://github.com/joaochioda/snake-websocket - Multiplayer snake (javascript & node)
+
 <h3>🚀 NLW - <a href="https://rocketseat.com.br/ " target="_blank">Rocketseat</a> event where which application is built in one week</h3>
 
 * https://github.com/joaochioda/rockttutorial - register classes - (react && reactNative && node)
@@ -42,11 +47,6 @@
 * https://github.com/joaochioda/glass-effect - glass effect (html & css)
 * https://github.com/joaochioda/snake - snake game (html + canvas)
 * https://github.com/joaochioda/snake-websocket - snake game websocket (html + canvas + websocket)
-
-<h3>🚄 Learning websocket</h3>
-
-* https://github.com/joaochioda/learning-unity-odd-or-even - Multiplayer odd or even (unity & node)
-* https://github.com/joaochioda/snake-websocket - Multiplayer snake (javascript & node)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
