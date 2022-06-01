@@ -46,7 +46,7 @@
 <h3>🚄 Learning websocket</h3>
 
 * https://github.com/joaochioda/learning-unity-odd-or-even - Multiplayer odd or even (unity & node)
-* https://github.com/joaochioda/snake-websocket - Multiplayer skane (javascript & node)
+* https://github.com/joaochioda/snake-websocket - Multiplayer snake (javascript & node)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
