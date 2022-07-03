@@ -4,6 +4,10 @@
 
 <h2>See my projects below</h2>
 
+<h3> 📦 Learning react component as lib </h3>
+
+* https://github.com/joaochioda/slider-lib
+
 <h3>🚄 Learning websocket</h3>
 
 * https://github.com/joaochioda/learning-unity-odd-or-even - Multiplayer odd or even (unity & node)
