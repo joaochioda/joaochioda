@@ -4,6 +4,10 @@
 
 <h2>See my projects below</h2>
 
+<h3> ⭐⭐ NFT - project ⭐⭐ </h3>
+
+*  https://github.com/joaochioda/nft-project
+
 <h3> 📦 Learning react component as lib </h3>
 
 * https://github.com/joaochioda/slider-lib
