@@ -57,6 +57,7 @@
 * https://github.com/joaochioda/glass-effect - glass effect (html & css)
 * https://github.com/joaochioda/snake - snake game (html + canvas)
 * https://github.com/joaochioda/snake-websocket - snake game websocket (html + canvas + websocket)
+* https://github.com/joaochioda/parallax - parallax (html + css)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
