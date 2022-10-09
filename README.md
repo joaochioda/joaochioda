@@ -34,6 +34,7 @@
 
 <h3>🤩 Personal projects - completed applications to study framework and libs</h3>
 
+* https://github.com/joaochioda/neo4j-crud - crud neo4js (vue + express)
 * https://github.com/joaochioda/herokuSpring - backend tcczone (springboot)
 * https://github.com/joaochioda/tccZone - register hookah essence, like, comment (flutter)
 * https://github.com/joaochioda/portfolio - portfolio (react)
