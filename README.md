@@ -11,6 +11,7 @@
 <h3> 📦 Learning react component as lib </h3>
 
 * https://github.com/joaochioda/slider-lib
+* https://github.com/joaochioda/lib-component-react-vit (using vite)
 
 <h3>🚄 Learning websocket</h3>
 
