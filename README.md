@@ -50,6 +50,7 @@
 * https://github.com/joaochioda/study-test - study testing library (react)
 * https://github.com/joaochioda/poc-nft - study smart contract, web3, blockchain (solidity, react, node)
 * https://github.com/joaochioda/vanilla-htm - study webpack with html + javascript
+* https://github.com/joaochioda/if-else-component - react component to replace if conditional
 <h3>🎃 Html & Css - personal projects to study html and css</h3>
 
 * https://github.com/joaochioda/30days-effects-css - every day make one challenge (html & css)
