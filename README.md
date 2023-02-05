@@ -61,6 +61,7 @@
 * https://github.com/joaochioda/snake - snake game (html + canvas)
 * https://github.com/joaochioda/snake-websocket - snake game websocket (html + canvas + websocket)
 * https://github.com/joaochioda/parallax - parallax (html + css)
+* https://github.com/joaochioda/chess-html - chess html (html + css)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
