@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm João Guilherme</h1>
-<h3 align="center">Graduated in computer engineering at <a href="https://www.facamp.com.br/" target="_blank">FACAMP</a>,</h3>
-<h3 align="center">Passionate frontend developer from Brazil,</h3>
+<h3 align="center">Graduated in computer engineering at <a href="https://www.facamp.com.br/" target="_blank">FACAMP</a> and Postgraduate at <a href="https://www.pucminas.br/" target="_blank">PUC Minas</h3>
+<h3 align="center">Passionate frontend developer from Brazil 🇧🇷, developing software with love ❤️ since 2019.</h3>
 
-<h2>See my projects below</h2>
+<h2>See my projects below 👇</h2>
 
 <h3> ⭐⭐ NFT - project ⭐⭐ </h3>
 
