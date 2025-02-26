@@ -6,7 +6,7 @@
 
 <h3> ⭐⭐ NFT - project ⭐⭐ </h3>
 
-*  https://github.com/joaochioda/gold-mining (WIP - 2025)
+*  https://github.com/joaochioda/gold-mining (2025)
 *  https://github.com/joaochioda/nft-project
 
 <h3> 📦 Learning react component as lib </h3>
